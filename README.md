@@ -2,10 +2,10 @@
 
 ## 1. Instalar as dependências
 
-pip install -e /path/to/repository/python
-$ pip install Flask
-$ pip install folium
-pip install pycountry
+- pip install -e /path/to/repository/python
+- $ pip install Flask
+- $ pip install folium
+- pip install pycountry
 
 
 ## 2. 
