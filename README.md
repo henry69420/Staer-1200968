@@ -11,4 +11,4 @@
 ## 2. 
 
 Correr o ficheiro "get_and_store_data.py" para adicionar dados à database, em seguida executar o ficheiro "flask_app.py" para iniciar o web server.
-Disponibilizo já a database com dados.
+A database encontra-se já com dados.
